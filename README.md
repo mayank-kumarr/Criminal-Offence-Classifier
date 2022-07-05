@@ -16,4 +16,4 @@
 
 ### 4. training
 • model is trained in minibatches and learning rate is modified as per F1 score\
-• multi-task learning using GRU and RNNs to optimize both the sentence-level and document-level losses simultaneously
+• multi-task learning using GRU and RNNs to optimize both sentence and document-level losses simultaneously
